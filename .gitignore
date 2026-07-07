@@ -1,0 +1,7 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Heavy static assets or audio files (Optional: uncomment if you manage large raw assets locally)
+# *.wav
+# *.mp4
